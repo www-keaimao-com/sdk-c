@@ -1,0 +1,35 @@
+﻿  cat.cpp
+C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\LovelyCat4\cat.cpp(43,43): warning C4273: “LoadingInfo”: dll 链接不一致
+C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\LovelyCat4\cat.h(16,36): message : 参见“LoadingInfo”的前一个定义
+C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\LovelyCat4\cat.cpp(64,27): warning C4273: “EventInit”: dll 链接不一致
+C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\LovelyCat4\cat.h(21,36): message : 参见“EventInit”的前一个定义
+C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\LovelyCat4\cat.cpp(71,29): warning C4273: “EventEnable”: dll 链接不一致
+C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\LovelyCat4\cat.h(26,36): message : 参见“EventEnable”的前一个定义
+C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\LovelyCat4\cat.cpp(77,27): warning C4273: “EventStop”: dll 链接不一致
+C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\LovelyCat4\cat.h(32,36): message : 参见“EventStop”的前一个定义
+C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\LovelyCat4\cat.cpp(83,28): warning C4273: “EventLogin”: dll 链接不一致
+C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\LovelyCat4\cat.h(38,36): message : 参见“EventLogin”的前一个定义
+C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\LovelyCat4\cat.cpp(90,51): warning C4273: “EventGroupMsg”: dll 链接不一致
+C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\LovelyCat4\cat.h(52,36): message : 参见“EventGroupMsg”的前一个定义
+C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\LovelyCat4\cat.cpp(97,13): warning C4273: “EventFriendMsg”: dll 链接不一致
+C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\LovelyCat4\cat.h(73,36): message : 参见“EventFriendMsg”的前一个定义
+C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\LovelyCat4\cat.cpp(104,31): warning C4273: “EventReceivedTransfer”: dll 链接不一致
+C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\LovelyCat4\cat.h(92,36): message : 参见“EventReceivedTransfer”的前一个定义
+C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\LovelyCat4\cat.cpp(110,113): warning C4273: “EventScanCashMoney”: dll 链接不一致
+C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\LovelyCat4\cat.h(110,36): message : 参见“EventScanCashMoney”的前一个定义
+C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\LovelyCat4\cat.cpp(117,18): warning C4273: “EventFriendVerify”: dll 链接不一致
+C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\LovelyCat4\cat.h(130,36): message : 参见“EventFriendVerify”的前一个定义
+C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\LovelyCat4\cat.cpp(123,108): warning C4273: “EventContactsChange”: dll 链接不一致
+C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\LovelyCat4\cat.h(150,36): message : 参见“EventContactsChange”的前一个定义
+C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\LovelyCat4\cat.cpp(129,103): warning C4273: “EventGroupMemberAdd”: dll 链接不一致
+C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\LovelyCat4\cat.h(166,36): message : 参见“EventGroupMemberAdd”的前一个定义
+C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\LovelyCat4\cat.cpp(135,108): warning C4273: “EventGroupMemberDecrease”: dll 链接不一致
+C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\LovelyCat4\cat.h(181,36): message : 参见“EventGroupMemberDecrease”的前一个定义
+C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\LovelyCat4\cat.cpp(141,71): warning C4273: “EventSysMsg”: dll 链接不一致
+C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\LovelyCat4\cat.h(195,36): message : 参见“EventSysMsg”的前一个定义
+C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\LovelyCat4\cat.cpp(147,23): warning C4273: “Menu”: dll 链接不一致
+  dllmain.cpp
+  正在生成代码...
+C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\LovelyCat4\cat.h(204,36): message : 参见“Menu”的前一个定义
+    正在创建库 C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\Debug\LovelyCat4.lib 和对象 C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\Debug\LovelyCat4.exp
+  LovelyCat4.vcxproj -> C:\Users\lucky-威\Desktop\LovelyCat\LovelyCat4\Debug\LovelyCat4.dll

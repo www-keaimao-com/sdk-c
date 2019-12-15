@@ -1,0 +1,17 @@
+LIBRARY
+EXPORTS
+Menu	@	1
+EventSysMsg	@	2
+EventGroupMemberDecrease	@	3
+EventGroupMemberAdd	@	4
+EventContactsChange	@	5
+EventFriendVerify	@	6
+EventScanCashMoney	@	7
+EventReceivedTransfer	@	8
+EventFriendMsg	@	9
+EventGroupMsg	@	10
+EventLogin	@	11
+EventStop	@	12
+EventEnable	@	13
+EventInit	@	14
+LoadingInfo	@	15
